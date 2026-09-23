@@ -26,9 +26,8 @@ Tuned with Moresampler (Recommended). Feel free to use whatever resampler you li
 ## Setup
 ### VB Install 음원 설치
 
-### Phonemizer Install 포네마이저 설치 \
+### Phonemizer Install 포네마이저 설치 
 아래 사진처럼 OpenUtau 엔진의 /Plugins 폴더에 포네마이저를 넣어 주십시오. \
-또는
 <img width="745" height="361" alt="image" src="https://github.com/user-attachments/assets/20b2b0f4-148e-4ddc-8f17-092b1e5d4bbb" />
 
 ### 가사 입력법
