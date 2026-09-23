@@ -73,9 +73,9 @@ Tuned with Moresampler (Recommended). Feel free to use whatever resampler you li
 ---
 
 ## Phonemizer
-- Voicebank IV uses its own multi-language phonemizer(included in VB). Download and add in OpenUTAU/Plugins Folder to use.
+- Voicebank IV uses its own multi-language phonemizer(included in VB). Download and add LEAPhonemizer in OpenUTAU/Plugins Folder to use.
 
-  음원 '담'은 전용 포네마이저를 사용합니다. 사용 전 압축 파일에 동봉되어 있는 IVPhonemizer를 UTAU 플러그인 폴더 안에 넣고, 재시작하면 적용됩니다.
+  음원 '담'은 전용 포네마이저를 사용합니다. 사용 전 압축 파일에 동봉되어 있는 LEAPhonemizer를 UTAU 플러그인 폴더 안에 넣고, 재시작하면 적용됩니다.
   
 - Single-language versions of IV will be updated soon to match the existing phonemizers.
 
