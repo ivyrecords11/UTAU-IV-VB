@@ -97,11 +97,9 @@ Tuned with Moresampler (Recommended). Feel free to use whatever resampler you li
 - **Do NOT feed the internal data into Artificial Intelligence.
 
   내장 음성 데이터 및 리샘플러를 통해 합성한 음성 데이터를 사용한 무단 AI 학습을 금합니다.
-  (제가 리샘플러 전 암호화 프로그램을 개발하게 하지 말아주시면 고맙겠습니다.)
 
-- If you wish to do so for research purposes, please contact the Gmail address below to discuss the details.
-- 
-  연구 목적으로 사용하고 싶을 시, 아래의 연락처로 메일을 남겨 주세요. 가급적 긍정적으로 검토하겠습니다.**
+- If you wish to do so for research purposes, please contact the Gmail address below to discuss the details. \
+  연구 목적으로 사용하고 싶을 시, 아래의 연락처로 메일을 남겨 주세요. 가급적 긍정적으로 검토하겠습니다.
 
 감사합니다. 
   
