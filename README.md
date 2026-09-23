@@ -24,17 +24,30 @@ Tuned with Moresampler (Recommended). Feel free to use whatever resampler you li
 ---
 
 ## Setup
+
 ### VB Install 음원 설치
 
+https://github.com/ivyrecords11/UTAU-IV-VB/releases/tag/UTAU_IV_VB 을 참고해 주세요!
+
 ### Phonemizer Install 포네마이저 설치 
-아래 사진처럼 OpenUtau 엔진의 /Plugins 폴더에 포네마이저를 넣어 주십시오. \
+
+https://github.com/ivyrecords11/openutau-LEAP/releases/tag/OpenUTAU-LEAP
+
+아래 사진처럼 OpenUtau 엔진의 /Plugins 폴더에 포네마이저를 넣어 주십시오. 
+
 <img width="745" height="361" alt="image" src="https://github.com/user-attachments/assets/20b2b0f4-148e-4ddc-8f17-092b1e5d4bbb" />
 
 ### 가사 입력법
+
 각 국의 문자로 입력하면 자동으로 대응됩니다.
+
 히라가나 -> 일본어, 로마자 -> 영어, 한글 -> 한국어로 자동으로 인식해서 대응됩니다.
 
 ### 기존 포네마이저 호환 음원
+
+기본 내장 포네마이저와 사용할 수 있도록 각 언어의 단독 버전도 제작하였습니다. 
+
+_EN, _JA, _KO 별칭이 붙은 압축파일 각각을 다운받아서 가수 폴더에 설치(압축 해제)하시면 다른 UTAU 음원과 같이 사용할 수 있습니다.
 
 
 ---
@@ -43,28 +56,29 @@ Tuned with Moresampler (Recommended). Feel free to use whatever resampler you li
 
 ### 2음색 지원 - Stable / Flow
 
-- **Stable**(Default): 안정되고 단단한 발성의 음원 
+- **Stable**(Default): 안정되고 단단한 발성의 음원
+
 - **Flow**: 가성을 사용한 비교적 약한 발음의 음원
 
 ### 지원 언어
-- Korean  / Japanese / English\
+- Korean  / Japanese / English \
 한국어 / 일본어 / 영어
 
 ### Voice Specifics 세부 사항
 
 **KOR** 
-*Rentan / 502 labels*\
+*Rentan / 502 labels* \
 *케딩식 한국어 연단음(V1) 리스트 사용 (https://www.postype.com/@weird-humans/post/19015816)* \
 - Stable C4/F4/C5
 - Flow   C4/G4/D5
   
 **JPN** 
-*CVVC / 320 labels*\
+*CVVC / 320 labels* \
 *나나카오신식 (ななかお新式) CVVC 리스트 사용 (https://tatsu3.hateblo.jp/entry/ar913085)* \
 - Stable C4/F4/C5
 - Flow C4/G4/D5
 
-**ENG** *Arpasing / 900 labels*\
+**ENG** *Arpasing / 900 labels* \
 *みなと Word-based List 사용 (https://bowlroll.net/file/300269)* \
 - Stable G4
 - Flow A3
